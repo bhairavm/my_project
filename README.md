@@ -1,1 +1,1 @@
-This xs our readme
+SWE525 Rocks My socks!
